@@ -115,5 +115,4 @@ The VL-JEPA notebooks depend on local `vl_jepa/` and `vl_jepa2/` packages
 - **JEPA / world models** — LeCun, *A Path Towards Autonomous Machine Intelligence* (2022)
 - **I-JEPA** — Assran et al., [*Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture*](https://arxiv.org/abs/2301.08243) (CVPR 2023)
 - **V-JEPA** — Bardes et al., [*Revisiting Feature Prediction for Learning Visual Representations from Video*](https://arxiv.org/abs/2404.08471) (2024)
-- **V-JEPA 2** — Meta AI, [`facebookresearch/vjepa2`](https://github.com/facebookresearch/vjepa2) (2025)
 - **VL-JEPA** — [arXiv:2512.10942](https://arxiv.org/pdf/2512.10942)
